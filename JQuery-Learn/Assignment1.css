@@ -1,0 +1,19 @@
+.box{
+border-style:solid;
+height:200px;
+width:200px;
+display:inline-grid;
+align-items:center;
+justify-content:center;
+}
+.on-active{
+border-radius:50%;
+background-color:green;
+box-shadow:2px 2px;
+}
+
+.off-active{
+border-radius:50%;
+background-color:red;
+box-shadow:2px 2px;
+}
